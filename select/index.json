@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君のことばかりだ",
+  "base_artist": "kobore",
+  "createdAt": "2026-02-14T02:14:14.152985Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君のことばかりだ",
+      "artist": "kobore",
+      "has_synced": false,
+      "path": "select/pl_01_君のことばかりだ_kobore.txt"
+    }
+  ]
+}
